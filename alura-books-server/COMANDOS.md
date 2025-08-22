@@ -12,3 +12,5 @@
     - npm install nodemon
     - nodemon app.js (rodar o projeto) ou npm run dev (após configurar no package.json)
 
+05. Instalar o Cors:
+    - npm install cors
