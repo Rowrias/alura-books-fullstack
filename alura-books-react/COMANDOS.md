@@ -7,6 +7,9 @@
 03. Instalar o Styled Componentes:
     - npm install styled-components 
 
-04. Instalar React Router
+04. Instalar o React Router
     - npm install react-router-dom
+
+05. Instalar o Axios
+    - npm install axios
 
